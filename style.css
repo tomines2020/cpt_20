@@ -60,6 +60,12 @@
   	padding: 3px;
 }
 
+.column2 {
+	float:left;
+	width: 15%;
+	padding: 3px;
+}
+
 .column3 {
 	float: left;
 	width: 12%;
