@@ -20,13 +20,13 @@
 }
 
 .icon3 {
-	width:166px;
-	height:79px;
+	width:146px;
+	height:59px;
 }
 
 .icon6 {
-	width:96px;
-	height:109px;
+	width:76px;
+	height:89px;
 }
 
 .icon9 {
@@ -35,23 +35,23 @@
 }
 
 .icon10 {
-	width:100px;
-	height:91px;
+	width:80px;
+	height:71px;
 }
 
 .icon11 {
-	width:80px;
-	height:150px;
+	width:60px;
+	height:130px;
 }
 
 .icon12 {
-	width:124px;
-	height:172px;
+	width:94px;
+	height:142px;
 }
 
 .icon13 {
-	width:90px;
-	height:99px;
+	width:70px;
+	height:79px;
 }
 
 .column {
@@ -62,7 +62,7 @@
 
 .column2 {
 	float:left;
-	width: 8%;
+	width: 10%;
 	padding: 3px;
 }
 
@@ -120,10 +120,16 @@
   	display: table;
 }
 
-li, h3 {
+h3 {
 	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 	color:white;
 	font-size:95%;
+}
+
+li {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:white;
+	font-size:85%;
 }
 
 .congrats {
